@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'SkeletonProjectWebApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D4C453AE335448D19833E364B4DAAF6E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EEBE0062AD5743E79988A82D437E6438 }}
           package: .
